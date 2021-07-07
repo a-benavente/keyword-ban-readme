@@ -21,6 +21,6 @@ After you have created your Custom Post Type, go to the advanced custom fields(A
 
 ### You are now ready to add your keywords
 
-Once, you go into your CPT, you should see the custom fields you just created. The title input will be helpful because you can name it your keyword and it'll show it in the list on the CPT page, otherwise you will get a list full of "Auto Draft" items because there is no link to you custom field and the title at this point.
+Once you go into your CPT and click "Add New", you should see the custom fields you just created. The title input will be helpful because you can name it your keyword and it'll show it in the list on your CPT page, otherwise you will get a list full of "Auto Draft" items because there is no link between your custom field and the title at this point.
 
-As a note, your CPT should be private, but also make sure you click private next to "Visibility" when adding a new keyword.
+As a note, your CPT should be private from when you created it, but also make sure you click private next to "Visibility" when adding a new keyword.
