@@ -19,7 +19,7 @@ Before clicking "Add Post Type", scroll down to settings near the bottom and adj
 
 After you have created your Custom Post Type, go to the advanced custom fields(ACF) plugin and click "Add New". You can title it however you'd like. As a suggestion: "Keyword Categorizer". Then, click "Add Field" and label it "Keyword". Set the "Field Type" to "Text"; you can choose to require it or not. Next, click "Add Field" again and label it what you would like; change the "Field Type" to "Radio Button". Again, choose to require it again or not, and then add the choices you would like to have for your keywords. Next, under "Location" set "Show this field group if" to "Post Type" "is equal to" "**\_**"(whatever you named you CPT).
 
-### You are now ready to set up to add your keywords
+### You are now ready to add your keywords
 
 Once, you go into your CPT, you should see the custom fields you just created. The title input will be helpful because you can name it your keyword and it'll show it in the list on the CPT page, otherwise you will get a list full of "Auto Draft" items because there is no link to you custom field and the title at this point.
 
